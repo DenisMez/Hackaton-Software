@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a3f3c2d82f16e02438c76bc8f6f031b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - gunObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Editor/CreateGunScript.cs
+  uploadId: 669522

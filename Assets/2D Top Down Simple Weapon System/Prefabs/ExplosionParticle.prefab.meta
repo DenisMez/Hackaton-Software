@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 327112a883b0c3a4d877dffbe129e8c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Prefabs/ExplosionParticle.prefab
+  uploadId: 669522

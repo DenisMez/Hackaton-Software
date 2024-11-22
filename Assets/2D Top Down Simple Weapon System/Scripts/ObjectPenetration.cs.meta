@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 863501bdc8adcd34e9963517a3982b4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Scripts/ObjectPenetration.cs
+  uploadId: 669522

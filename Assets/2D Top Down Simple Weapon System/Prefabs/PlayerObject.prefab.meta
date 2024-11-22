@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ee985855d6a44c4ea6706a5ee582ef1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Prefabs/PlayerObject.prefab
+  uploadId: 669522

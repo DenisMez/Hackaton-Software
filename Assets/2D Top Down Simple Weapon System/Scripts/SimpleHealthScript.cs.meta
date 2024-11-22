@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49cf1c0f4b1a4884d95c62fe26edbb43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Scripts/SimpleHealthScript.cs
+  uploadId: 669522

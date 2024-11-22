@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ded8a196d1136a47ac8b443b16833cb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Editor/GunNames.csv
+  uploadId: 669522

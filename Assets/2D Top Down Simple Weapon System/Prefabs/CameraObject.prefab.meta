@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f4ed9ad9593786048b14cc883bfbf355
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Prefabs/CameraObject.prefab
+  uploadId: 669522

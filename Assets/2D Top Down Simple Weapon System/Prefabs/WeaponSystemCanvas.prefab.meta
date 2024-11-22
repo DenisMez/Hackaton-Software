@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8151bdd47b4984740acdf1efb65cf1ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280166
+  packageName: 2D Top Down Simple Weapon System
+  packageVersion: 1.0.1
+  assetPath: Assets/2D Top Down Simple Weapon System/Prefabs/WeaponSystemCanvas.prefab
+  uploadId: 669522
